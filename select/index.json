@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "De Mí",
+  "base_artist": "Camila",
+  "createdAt": "2026-01-14T02:15:46.533273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "De Mi Noi Cho Ma Nghe",
+      "artist": "Hoàng Thùy Linh",
+      "has_synced": true,
+      "path": "select/01_De_Mi_Noi_Cho_Ma_Nghe_Hoàng_Thùy_Linh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "De Mi Noi Cho Ma Nghe",
+      "artist": "Hoang Thuy Linh",
+      "has_synced": true,
+      "path": "select/02_De_Mi_Noi_Cho_Ma_Nghe_Hoang_Thuy_Linh.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Himno de Mi Corazón",
+      "artist": "Los Abuelos de la Nada",
+      "has_synced": true,
+      "path": "select/03_Himno_de_Mi_Corazón_Los_Abuelos_de_la_Nada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Mitad de Mi Orgullo",
+      "artist": "José Alfredo Jiménez",
+      "has_synced": false,
+      "path": "select/04_La_Mitad_de_Mi_Orgullo_José_Alfredo_Jiménez.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Noche de Mi Mal",
+      "artist": "José Alfredo Jiménez",
+      "has_synced": false,
+      "path": "select/05_La_Noche_de_Mi_Mal_José_Alfredo_Jiménez.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Las Llaves de Mi Alma",
+      "artist": "Vicente Fernández",
+      "has_synced": true,
+      "path": "select/06_Las_Llaves_de_Mi_Alma_Vicente_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fuera De Mi",
+      "artist": "Populous feat. Kaleema",
+      "has_synced": true,
+      "path": "select/07_Fuera_De_Mi_Populous_feat._Kaleema.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "El Resto De Mi Vida",
+      "artist": "Juniper Moon",
+      "has_synced": true,
+      "path": "select/08_El_Resto_De_Mi_Vida_Juniper_Moon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Maria of My Soul (Bella Maria de mi alma)",
+      "artist": "Paola&Chiara",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Maria_of_My_Soul_(Bella_Maria_de_mi_alma)_Paola&Chiara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mil Días de Tí y de Mí (Mille Giorni Di Te e Di Me)",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/10_Mil_Días_de_Tí_y_de_Mí_(Mille_Giorni_Di_Te_e_Di_Me)_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mil Dìas De Ti Y De Mì (Mille Giorni Di Te E Di Me)",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/11_Mil_Dìas_De_Ti_Y_De_Mì_(Mille_Giorni_Di_Te_E_Di_Me)_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nunca Te Olvides de Mí (Non ti scordar mai di me)",
+      "artist": "Giusy Ferreri",
+      "has_synced": true,
+      "path": "select/12_Nunca_Te_Olvides_de_Mí_(Non_ti_scordar_mai_di_me)_Giusy_Ferreri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nunca te olvides de mí",
+      "artist": "Giusy Ferreri",
+      "has_synced": true,
+      "path": "select/13_Nunca_te_olvides_de_mí_Giusy_Ferreri.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Debajo de Mi Lengua",
+      "artist": "Julieta Venegas",
+      "has_synced": true,
+      "path": "select/14_Debajo_de_Mi_Lengua_Julieta_Venegas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Las Chicas De Mi Barrio",
+      "artist": "Amaral",
+      "has_synced": true,
+      "path": "select/15_Las_Chicas_De_Mi_Barrio_Amaral.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fuera De Mi",
+      "artist": "Populous Kaleema",
+      "has_synced": true,
+      "path": "select/16_Fuera_De_Mi_Populous_Kaleema.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Acuérdate De Mí",
+      "artist": "Morat",
+      "has_synced": true,
+      "path": "select/17_Acuérdate_De_Mí_Morat.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cuando Te Acuerdes De Mi",
+      "artist": "Marco Antonio Solís",
+      "has_synced": true,
+      "path": "select/18_Cuando_Te_Acuerdes_De_Mi_Marco_Antonio_Solís.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cuando Te Acuerdes De Mi",
+      "artist": "Marco Antonio Solís",
+      "has_synced": true,
+      "path": "select/19_Cuando_Te_Acuerdes_De_Mi_Marco_Antonio_Solís.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "De Mi",
+      "artist": "Camila",
+      "has_synced": false,
+      "path": "select/pl_01_De_Mi_Camila.txt"
+    }
+  ]
+}
